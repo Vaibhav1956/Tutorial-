@@ -1,3 +1,3 @@
 # Tutorial-
-This is the repositry for me
-it for the practice puropse for me 
+This is the repository for me
+it is for the practice puropse for me 
