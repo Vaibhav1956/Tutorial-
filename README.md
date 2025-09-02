@@ -1,5 +1,4 @@
 # Tutorial-
-This is the repository for me
+This is the repository for Creating class time table using html
 <br>
-it is for the practice puropse for me 
-hi it me
+ 
